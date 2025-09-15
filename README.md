@@ -172,12 +172,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 2. **Build errors**: Run `flutter clean` and `flutter pub get`
 3. **Hive adapter errors**: Run `flutter packages pub run build_runner build`
 
-### Performance Tips
-
-- Close unused apps to free up memory
-- Ensure stable internet connection for speech recognition
-- Regularly clear old notes to maintain performance
-
-## Support
-
-For support and questions, please open an issue in the repository or contact the development team.
